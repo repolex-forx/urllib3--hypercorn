@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/urllib3/hypercorn/commit/33ed00670894b29ec00f4341a4ec5100e3ade747",
       "git:hexsha": "33ed00670894b29ec00f4341a4ec5100e3ade747",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
